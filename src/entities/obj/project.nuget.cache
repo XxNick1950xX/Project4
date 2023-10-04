@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gSlkVNM/fY5ZjxftmWBFTVw/CaTYioUkwj5mIQcDPskCwig4v1xgT3QYZsvh47rxA+2usnuBh4So2mSLXOCbeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicholas.guohao.chen\\OneDrive - Avanade\\Labs\\AzureLab\\projects\\serverless\\src\\entities\\ToDoList.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicholas.guohao.chen\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
